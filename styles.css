@@ -72,14 +72,17 @@ h3 {
 
 #spanHigh {
   color: #777777;
+  padding-left: 10px;
 }
 
 #spanCurrent {
   color: #777777;
+  padding-left: 10px;
 }
 
 #spanCollisions {
   color: #777777;
+  padding-left: 10px;
 }
 
 svg {
